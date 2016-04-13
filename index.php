@@ -10,7 +10,7 @@
 <body>
 <table width="750" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="750" height="110" valign="top">je test1</td>
+    <td width="750" height="110" valign="top">je test12</td>
   </tr>
 </table>
 </body>
